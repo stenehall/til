@@ -99,4 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/stenehall/til
+  repo: https://github.com/stenehall/tilt
+  branch: gh-pages
