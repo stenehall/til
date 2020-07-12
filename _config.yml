@@ -100,7 +100,7 @@ uglify:
   output:
   compress:
   exclude:
-    - *.min.js
+    - "*.min.js"
   es6: false
 
 feed:
