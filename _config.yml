@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TIL
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Johan Stenehall
 language: en
 timezone: ''
 
@@ -62,7 +62,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: til
 category_map:
 tag_map:
 
@@ -94,6 +94,18 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
+  template:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
