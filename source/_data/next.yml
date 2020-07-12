@@ -1,0 +1,9 @@
+# Theme
+minify: true
+scheme: Muse
+darkmode: true
+sidebar:
+  display: remove
+local_search:
+  enable: true
+powered: false
