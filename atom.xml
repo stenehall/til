@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TIL</title>
+  
+  
+  <link href="/til/atom.xml" rel="self"/>
+  
+  <link href="https://stenehall.github.io/til/"/>
+  <updated>2020-04-29T06:52:50.038Z</updated>
+  <id>https://stenehall.github.io/til/</id>
+  
+  <author>
+    <name>Johan Stenehall</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>one is one is 0.999999...</title>
+    <link href="https://stenehall.github.io/til/2020/04/28/one-is-one-is-0-999999/"/>
+    <id>https://stenehall.github.io/til/2020/04/28/one-is-one-is-0-999999/</id>
+    <published>2020-04-28T18:53:16.000Z</published>
+    <updated>2020-04-29T06:52:50.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The number 1 and 0.999999…(9s forever) is actually the exact same number.&lt;/p&gt;
+&lt;p&gt;There’s several simple proofs of this you can
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Up and running with hexo</title>
+    <link href="https://stenehall.github.io/til/2020/04/20/Up-and-running-with-hexo/"/>
+    <id>https://stenehall.github.io/til/2020/04/20/Up-and-running-with-hexo/</id>
+    <published>2020-04-20T13:26:39.000Z</published>
+    <updated>2020-04-20T13:28:18.302Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://stenehall.github.io/til/2020/04/20/hello-world/"/>
+    <id>https://stenehall.github.io/til/2020/04/20/hello-world/</id>
+    <published>2020-04-20T07:18:33.809Z</published>
+    <updated>2020-04-20T13:28:53.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

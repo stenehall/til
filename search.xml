@@ -25,6 +25,7 @@
 
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x - y &#x3D; 0</span><br><span class="line">x &#x3D; y</span><br><span class="line"></span><br><span class="line">1 - 0.999...(forever) &#x3D; 0.000... (forever)</span><br><span class="line">1 &#x3D; 0.999...</span><br></pre></td></tr></table></figure>
 
+<p>For more reading read <a href="https://en.wikipedia.org/wiki/0.999..." target="_blank" rel="noopener">wikipedia</a></p>
 ]]></content>
   </entry>
 </search>
